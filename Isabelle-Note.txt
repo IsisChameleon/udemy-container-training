@@ -1,0 +1,4 @@
+As soon as I had start the container with -p 3000:80 a notification from Gitpod came and told
+me a service was available  port 3000.
+When I clicked it it lead me to here :
+https://3000-b532242c-08c4-4db7-98ea-cd283d44ee5e.ws-us03.gitpod.io/
